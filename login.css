@@ -68,3 +68,8 @@ button:hover {
         width: 90%; /* Makes form width responsive */
     }
 }
+
+#temp-skip {
+    color:crimson;
+   
+}
